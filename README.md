@@ -1,4 +1,4 @@
-# Site sistemas foco
+# Sistemas Foco
 ## Projeto do site criado para Sistemas Foco
 
 O site completo com algumas atualizações pode ser encontrado em: www.sistemasfoco.com.br
